@@ -1,4 +1,7 @@
 # merise - td1 r3.10 management des si et des projets
+Pour l’épuration du dictionnaire, nous avons procédé de la manière suivante :
+lors de la création de notre dictionnaire, nous nous sommes assurés d’optimiser la base de données en ajoutant directement les attributs nécessaires et éviter les doublons.
+Concernant l’épuration, nous avons veillé à retirer les accents ainsi que les majuscules afin d’uniformiser la structure.
 
 ## circuit
 | nom_attribut      | type_donnees | longueur | cle                 | description              |
